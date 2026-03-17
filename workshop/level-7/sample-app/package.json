@@ -1,0 +1,23 @@
+{
+  "name": "standup-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 7: Production — auth, BYOK, persistence, and deployment readiness",
+  "scripts": {
+    "auth": "npx tsx auth-methods.ts",
+    "openai": "npx tsx byok-openai.ts",
+    "ollama": "npx tsx byok-ollama.ts",
+    "azure": "npx tsx byok-azure.ts",
+    "persist": "npx tsx session-persist.ts",
+    "infinite": "npx tsx infinite-session.ts",
+    "parallel": "npx tsx parallel-sessions.ts",
+    "external": "npx tsx external-cli.ts",
+    "recovery": "npx tsx error-recovery.ts",
+    "standup": "npx tsx standup-bot.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "study-buddy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 4: Interact — interactive chat with system messages and user input requests",
+  "scripts": {
+    "repl": "npx tsx basic-repl.ts",
+    "tools": "npx tsx repl-with-tools.ts",
+    "system": "npx tsx system-message.ts",
+    "input": "npx tsx user-input-request.ts",
+    "commands": "npx tsx conversation-commands.ts",
+    "buddy": "npx tsx study-buddy.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0"
+  }
+}

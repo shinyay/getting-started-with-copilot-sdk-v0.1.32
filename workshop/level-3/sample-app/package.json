@@ -1,0 +1,21 @@
+{
+  "name": "city-guide",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 3: Tools — custom tool definitions with JSON Schema and Zod",
+  "scripts": {
+    "first": "npx tsx first-tool.ts",
+    "zod": "npx tsx zod-tool.ts",
+    "describe": "npx tsx description-experiment.ts",
+    "multi": "npx tsx multi-tool.ts",
+    "optional": "npx tsx optional-params.ts",
+    "async": "npx tsx async-tool.ts",
+    "guide": "npx tsx city-guide.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0",
+    "zod": "^3.24.0"
+  }
+}

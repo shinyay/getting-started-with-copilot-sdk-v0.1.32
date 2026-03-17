@@ -1,0 +1,23 @@
+{
+  "name": "docs-explorer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 6: Context — MCP servers, custom agents, and skill directories",
+  "scripts": {
+    "mcp": "npx tsx mcp-local.ts",
+    "filtered": "npx tsx mcp-filtered.ts",
+    "options": "npx tsx mcp-options.ts",
+    "remote": "npx tsx mcp-remote.ts",
+    "agents": "npx tsx custom-agents.ts",
+    "skills": "npx tsx skill-dirs.ts",
+    "control": "npx tsx tool-control.ts",
+    "combine": "npx tsx mcp-plus-custom.ts",
+    "multi": "npx tsx multi-mcp.ts",
+    "explore": "npx tsx docs-explorer.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0"
+  }
+}

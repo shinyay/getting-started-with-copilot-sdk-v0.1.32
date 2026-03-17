@@ -1,0 +1,19 @@
+{
+  "name": "story-streamer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 2: Streaming — real-time token-by-token response handling",
+  "scripts": {
+    "basic": "npx tsx stream-basic.ts",
+    "events": "npx tsx stream-events.ts",
+    "compare": "npx tsx send-vs-sendandwait.ts",
+    "usage": "npx tsx token-usage.ts",
+    "spinner": "npx tsx typing-indicator.ts",
+    "story": "npx tsx story-streamer.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0"
+  }
+}

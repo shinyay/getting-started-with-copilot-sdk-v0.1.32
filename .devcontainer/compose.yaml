@@ -1,0 +1,16 @@
+# -----------------------------------------------------------
+# Dev Container Compose — Copilot SDK Workshop
+#
+# Single-service composition for the dev container.
+# Add additional services (databases, MCP servers, etc.)
+# below the devcontainer service as needed.
+# -----------------------------------------------------------
+
+services:
+  devcontainer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/workspaces/getting-started-with-copilot-sdk:cached
+    command: sleep infinity

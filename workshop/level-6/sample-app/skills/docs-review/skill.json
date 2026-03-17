@@ -1,0 +1,6 @@
+{
+  "name": "docs-review",
+  "description": "A skill for reviewing and improving technical documentation",
+  "prompts": ["prompts/system.md"],
+  "tools": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "safe-coder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 5: Hooks — intercept and control the SDK agent loop",
+  "scripts": {
+    "start": "npx tsx session-start-hook.ts",
+    "prompt": "npx tsx prompt-hooks.ts",
+    "pre": "npx tsx pre-tool-hook.ts",
+    "post": "npx tsx post-tool-hook.ts",
+    "audit": "npx tsx audit-logger.ts",
+    "error": "npx tsx error-hook.ts",
+    "safe": "npx tsx safe-coder.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0"
+  }
+}

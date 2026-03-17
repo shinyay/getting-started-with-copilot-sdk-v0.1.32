@@ -1,0 +1,24 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 8: Mastery — advanced features and real-world projects",
+  "scripts": {
+    "image": "npx tsx image-attachments.ts",
+    "reasoning": "npx tsx reasoning-events.ts",
+    "effort": "npx tsx reasoning-effort.ts",
+    "options": "npx tsx client-options.ts",
+    "weather": "npx tsx project-weather.ts",
+    "review": "npx tsx project-code-review.ts",
+    "quiz": "npx tsx project-quiz.ts",
+    "docs": "npx tsx project-docs.ts",
+    "compare": "npx tsx multi-model.ts",
+    "test": "npx tsx test-tools.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.32",
+    "tsx": "^4.21.0",
+    "zod": "^3.23.0"
+  }
+}
