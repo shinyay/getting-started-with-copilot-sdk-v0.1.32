@@ -1,0 +1,53 @@
+remote_theme: shinyay/workshop-pages-theme
+
+title: "Getting Started with Copilot SDK v0.1.32"
+description: "A progressive 8-level workshop for the GitHub Copilot SDK — 96 exercises teaching agent runtime, tool calling, hooks, MCP, and production patterns"
+url: "https://shinyay.github.io"
+baseurl: "/getting-started-with-copilot-sdk-v0.1.32"
+
+workshop:
+  title: "Getting Started with Copilot SDK v0.1.32"
+  description: "Master the GitHub Copilot SDK — a programmable agent runtime for embedding AI into your applications."
+  category: ai-ml
+  tags:
+    - copilot-sdk
+    - agent-runtime
+    - tool-calling
+    - mcp
+    - typescript
+  difficulty: "Beginner to Expert"
+  duration: "12–15 hours (96 exercises)"
+  language: "TypeScript"
+  repo_url: "https://github.com/shinyay/getting-started-with-copilot-sdk-v0.1.32"
+  hub_url: "https://shinyay.github.io/awesome-shinyay-workshop/"
+  prerequisites:
+    - "Node.js 20+ and npm"
+    - "GitHub Copilot CLI installed"
+    - "TypeScript basics (async/await, Promises)"
+    - "Git basics and a GitHub account"
+  show_toc: true
+  show_progress: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - .devcontainer/
+  - .github/
+  - .gitignore
+  - README.md
+  - LICENSE
+  - node_modules/
+  - "*.ts"
+  - "*.json"
+  - "*.lock"
+  - "*.sh"
+  - "*.yaml"
+  - "*.yml"
+  - Dockerfile
+  - .env

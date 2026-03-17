@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 3: Tools — Let Model Call Your Code"
+step_number: 3
+permalink: /steps/3/
+---
+
 # Level 3: Tools — Let the Model Call Your Code
 
 > **Risk level:** 🟡 Low — Tools execute YOUR code, but all tools in this level use hardcoded data. No file writes, no network calls, no side effects.

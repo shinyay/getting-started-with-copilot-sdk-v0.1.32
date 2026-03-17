@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 1: Connect — Cheatsheet"
+parent_step: 1
+permalink: /cheatsheet/1/
+---
+
 # Level 1 — Quick Reference Card
 
 ## SDK Setup

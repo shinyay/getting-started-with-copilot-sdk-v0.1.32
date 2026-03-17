@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 7: Production — Cheatsheet"
+parent_step: 7
+permalink: /cheatsheet/7/
+---
+
 # Level 7 — Quick Reference Card
 
 ## Authentication Priority

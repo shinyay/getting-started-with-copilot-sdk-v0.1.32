@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 4: Interact — Build Conversational Apps"
+step_number: 4
+permalink: /steps/4/
+---
+
 # Level 4: Interact — Build Conversational Applications
 
 > **Risk level:** 🟡 Low — You're building interactive applications that call tools with hardcoded data. No file system access, no network calls, no destructive operations.

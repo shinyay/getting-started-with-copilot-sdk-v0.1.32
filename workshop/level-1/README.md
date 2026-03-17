@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 1: Connect — Your First SDK Session"
+step_number: 1
+permalink: /steps/1/
+---
+
 # Level 1: Connect — Your First SDK Session
 
 > **Risk level:** 🟢 Zero — Nothing in this level modifies any files or runs dangerous code. You're only sending prompts and reading responses.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Copilot SDK Conceptual Guide"
+permalink: /guide/
+---
+
 # GitHub Copilot SDK — The Conceptual Guide
 
 > A deep, from-first-principles guide to understanding GitHub Copilot SDK: its architecture, design philosophy, and the patterns that separate demos from production-ready AI applications.

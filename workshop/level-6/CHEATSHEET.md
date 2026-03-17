@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 6: Context — Cheatsheet"
+parent_step: 6
+permalink: /cheatsheet/6/
+---
+
 # Level 6 — Quick Reference Card
 
 ## MCP Server Types

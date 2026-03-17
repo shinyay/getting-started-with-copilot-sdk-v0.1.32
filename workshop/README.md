@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Workshop Curriculum"
+permalink: /curriculum/
+---
+
 # 🎓 Copilot SDK Workshop — Complete Learning Path
 
 A progressive 8-level curriculum for mastering the GitHub Copilot SDK, from

@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 6: Context — MCP, Agents & Skills"
+step_number: 6
+permalink: /steps/6/
+---
+
 # Level 6: Context — MCP Servers, Custom Agents & Skills
 
 > **Risk level:** 🟠 High — MCP servers can access your filesystem, network, and databases. Only grant access to directories you intend to share. Use tool filtering to limit what operations the model can perform.

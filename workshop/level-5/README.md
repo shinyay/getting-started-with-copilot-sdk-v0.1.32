@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 5: Hooks — Intercept & Control the Loop"
+step_number: 5
+permalink: /steps/5/
+---
+
 # Level 5: Hooks — Intercept & Control the Agent Loop
 
 > **Risk level:** 🟠 Medium — Hooks can modify tool behavior, suppress errors, and block tool execution. Understand what each hook does before combining them. All tools in this level use hardcoded data, but the patterns apply to production systems with real side effects.

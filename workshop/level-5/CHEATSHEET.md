@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 5: Hooks — Cheatsheet"
+parent_step: 5
+permalink: /cheatsheet/5/
+---
+
 # Level 5 — Quick Reference Card
 
 ## Hook Types Overview

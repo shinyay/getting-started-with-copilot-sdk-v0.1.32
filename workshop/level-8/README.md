@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 8: Mastery — Advanced Features & Projects"
+step_number: 8
+permalink: /steps/8/
+---
+
 # Level 8: Mastery — Advanced Features & Real-World Projects
 
 > **Risk level:** 🔴 High Awareness — Full autonomy. You are building real applications that may access filesystems, call APIs, and use real credentials. Apply all security and production patterns from previous levels.

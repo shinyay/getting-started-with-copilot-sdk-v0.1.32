@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 2: Stream — Real-Time Response Handling"
+step_number: 2
+permalink: /steps/2/
+---
+
 # Level 2: Stream — Real-Time Response Handling
 
 > **Risk level:** 🟢 Zero — Like Level 1, you're only sending prompts and reading responses. No files are modified, no code is executed on your behalf.

@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 3: Tools — Cheatsheet"
+parent_step: 3
+permalink: /cheatsheet/3/
+---
+
 # Level 3 — Quick Reference Card
 
 ## `defineTool` API

@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 8: Mastery — Cheatsheet"
+parent_step: 8
+permalink: /cheatsheet/8/
+---
+
 # Level 8 — Quick Reference Card
 
 ## Image Attachments

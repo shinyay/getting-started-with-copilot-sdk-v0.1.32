@@ -1,3 +1,10 @@
+---
+layout: step
+title: "Level 7: Production — Auth, Persistence & Config"
+step_number: 7
+permalink: /steps/7/
+---
+
 # Level 7: Production — Auth, Persistence & Deployment Readiness
 
 > **Risk level:** 🟠 High — BYOK exercises use real API keys. **Never commit keys to source code.** Always use environment variables. Session persistence writes state files to disk.
